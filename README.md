@@ -1,4 +1,4 @@
-## DNMADE2
+## ETIENNE
 
 ### AFRAME 
 * [labyrinthe](./labyrinthe.html)
